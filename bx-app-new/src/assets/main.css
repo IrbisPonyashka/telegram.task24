@@ -1,0 +1,6 @@
+@import "tailwindcss" theme(static) source("../..");
+@import "@bitrix24/b24ui-nuxt";
+
+@theme static {
+
+}

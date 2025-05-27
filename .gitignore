@@ -1,0 +1,4 @@
+/sql_request/
+/src/vendor/
+/src/composer.lock
+/src/settings.php
